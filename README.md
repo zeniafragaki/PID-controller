@@ -12,8 +12,8 @@ where:
 
 - \( u(t) \) = control signal,
 - \( e(t) \) = error,
-- \( K_p \) = proportional gain,
-- \( K_i \) = integral gain,
-- \( K_d \) = derivative gain.
+- \( Kp \) = proportional gain,
+- \( Ki \) = integral gain,
+- \( Kd \) = derivative gain.
 
 The controller adjusts the output signal based on the  error.
