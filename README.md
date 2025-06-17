@@ -16,4 +16,4 @@ where:
 - \( K_i \) = integral gain,
 - \( K_d \) = derivative gain.
 
-The controller adjusts the output signal based on the current error, the accumulated error over time, and the rate of change of the error, providing fast and stable system response.
+The controller adjusts the output signal based on the  error.
