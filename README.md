@@ -1,6 +1,6 @@
 # PID Controller
 
-The **PID Controller** (Proportional-Integral-Derivative) is a fundamental control algorithm used to regulate systems based on the error signal.Algorithm was developed in MATLAB R2024b
+The **PID Controller** (Proportional-Integral-Derivative) is a fundamental control algorithm used to regulate systems based on the error signal.Algorithm was developed in MATLAB R2024b enviroment.
 
 The mathematical expression is:
 
