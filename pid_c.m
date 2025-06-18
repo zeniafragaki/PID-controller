@@ -10,7 +10,7 @@ Kd=0.1;
 ts=0.01;
 
 I=I_prev+ts*e_k;       %forward Euler's method
-                       %I=I*(ts/2)*(e_k+l_prev) --> Trapezoidal rule
+                       %I=I_prev*(ts/2)*(e_k+l_prev) --> Trapezoidal rule
 
 D=(e_k-e_prev)/ts;     %backward difference
  
