@@ -18,3 +18,8 @@ where:
 
 
 The controller adjusts the output signal based on the  error.
+
+
+# Ziegler Nichols 2nd Rule
+
+Ziegler Nichols 2nd rule is a very successful empirical tuning method , especially for linear systems.Tuning operation is based on users observation during the tuning process.In the "Ziegler_Nichols_2nd.m" file it is presented a simple script for supporting the gains computation.
